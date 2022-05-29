@@ -7,5 +7,5 @@ int main(){
     printf("Hello World 2");
     //***********************//
     prinf("Its a new day bro");
-    return 0;
+    return 0;//new change lmao 
 }
